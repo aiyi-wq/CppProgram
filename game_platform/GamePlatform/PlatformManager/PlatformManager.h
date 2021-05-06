@@ -1,0 +1,3 @@
+#ifndef _PLATFORMMANAGER_H
+#define _PLATFORMMANAGER_H
+#endif
